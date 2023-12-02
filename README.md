@@ -1,5 +1,4 @@
 - Hi, I’m @UlhaqDaffa
-- currently learning at Pamulang University
 
 <!---
 UlhaqDaffa/UlhaqDaffa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
